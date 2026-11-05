@@ -1,0 +1,2 @@
+# automatic-mem
+Aibot
